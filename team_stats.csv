@@ -1,0 +1,64 @@
+Statistic,Pittsburgh,"Opponents
+OPP"
+Scoring,,
+"Total Points
+TOT",802,681
+"Points Per Game
+PPG",80.2,68.1
+"Scoring Margin
+Margin",12.1,--
+Shooting,,
+"FG: Made-Attempted
+FGM-FGA",284-607,247-592
+"FG: Percentage
+FG%",.468,.417
+"FG: Per Game
+FGM/G",28.4,24.7
+"3PT: Made-Attempted
+3PT-3PA",81-252,66-217
+"3PT: Percentage
+3PT%",.321,.304
+"3PT: Per Game
+3PT/G",8.1,6.6
+"FT: Made-Attempted
+FTM-FTA",153-199,121-178
+"FT: Percentage
+FT%",.769,.680
+"FT: Per Game
+FT/G",15.3,12.1
+Rebounding,,
+"Total
+TOT",370,343
+"Per Game
+RPG",37.0,34.3
+Margin,2.7,--
+Assists,,
+"Total
+TOT",135,113
+"Per Game
+APG",13.5,11.3
+Turnovers,,
+"Total
+TOT",100,130
+"Per Game
+TO/G",10.0,13.0
+Margin,3.0,--
+"Assist/Turnover Ratio
+A/TO",1.4,0.9
+"Points Off Turnovers
+PTS OFF TO",15.3,10.3
+Steals,,
+"Total
+TOT",74,50
+"Per Game
+STL/G",7.4,5.0
+Blocks,,
+"Total
+TOT",46,27
+"Per Game
+BLK/G",4.6,2.7
+Attendance,,
+"Total
+TOT",37618,31481
+"Per Game
+AVG","5-7,524","3-10,494"
