@@ -11,6 +11,7 @@ players, creating a seamless and informative experience for sports enthusiasts.
 Link to our demonstration video: https://youtu.be/e6wfftYsw1I
 
 Installation
+
 Before running our application, you should install the following Python packages:
 - Pandas: pip install pandas
 - Matplotlib: pip install matplotlib
@@ -21,6 +22,7 @@ Before running our application, you should install the following Python packages
 - BeautifulSoup: pip install beautifulsoup4
 
 Run
+
 Our app is developed with Streamlit. After installing all the required packages above, you can
 unzip our submission and run the main_file.py by running streamlit run main_file.py in the
 terminal, and then our application will be running on your local browser. If it asks you for your
