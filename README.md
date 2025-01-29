@@ -24,6 +24,6 @@ Before running our application, you should install the following Python packages
 Run
 
 Our app is developed with Streamlit. After installing all the required packages above, you can
-unzip our submission and run the main_file.py by running streamlit run main_file.py in the
+clone this repository and run the main_file.py by running streamlit run main_file.py in the
 terminal, and then our application will be running on your local browser. If it asks you for your
 email address, just press “Enter” to skip it.
